@@ -7,7 +7,7 @@ async function scrollToAndClick(driver, element) {
   }
 
   await driver.executeScript("arguments[0].scrollIntoView();", element);
-  await driver.sleep(2000); // Sayfanın kaydırıldığından emin olmak için bir gecikme ekleyin
+  await driver.sleep(2000);
   await driver.wait(until.elementIsVisible(element), 10000);
   await element.click();
 }

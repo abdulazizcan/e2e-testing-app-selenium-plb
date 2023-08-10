@@ -30,10 +30,10 @@ class BathBombs {
     let next_page;
     try {
       next_page = await this.driver.findElement(By.css("ul > li.next"));
-      await this.driver.sleep(2000); // 3-second wait
+      await this.driver.sleep(2000);
     } catch (error) {
       console.log("No next page button found.");
-      await this.driver.sleep(2000); // 3-second wait
+      await this.driver.sleep(2000);
       this.compareProducts();
       return;
     }
