@@ -6,34 +6,21 @@ class ShoppingCart {
     this.driver = driver;
   }
 
-  async scrollToAndClick(element) {
-    for (let i = 0; i < 10; i++) {
-      await this.driver.executeScript("window.scrollBy(0,200)");
-      await this.driver.sleep(100);
-    }
-
-    await this.driver.executeScript("arguments[0].scrollIntoView();", element);
-    await this.driver.sleep(2000);
-    await this.driver.wait(until.elementIsVisible(element), 10000);
-    await element.click();
-  }
-
   async checkTheBasket() {
     try {
       const productPage = await this.driver.wait(
         until.elementLocated(By.className("gitem is-selected")),
         2000
       );
-
       await scrollToAndClick(this.driver, productPage);
 
       const addButton = await this.driver.wait(
         until.elementLocated(
-          By.id("AddToCart-template--19411590414669__product")
+          By.id("AddToCartText-template--19411590414669__product")
         ),
         2000
       );
-      await addButton.click();
+      await scrollToAndClick(this.driver, addButton);
 
       await this.driver.sleep(10000);
 
