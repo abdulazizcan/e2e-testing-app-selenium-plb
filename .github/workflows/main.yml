@@ -12,8 +12,7 @@ jobs:
     steps:
       - name: Setup Geckodriver
         uses: browser-actions/setup-geckodriver@latest
-        with:
-          token: ${{ secrets.TOKEN }}
+
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Setup Node.js
@@ -34,8 +33,6 @@ jobs:
     steps:
       - name: Setup Geckodriver
         uses: browser-actions/setup-geckodriver@latest
-        with:
-          token: ${{ secrets.TOKEN }}
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Setup Node.js
