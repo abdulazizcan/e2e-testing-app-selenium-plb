@@ -11,8 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup Geckodriver
-        uses: browser-actions/setup-geckodriver@v4.2.0
-      - name: Checkout code
+        uses: browser-actions/setup-geckodriver@v1 
         uses: actions/checkout@v2
       - name: Setup Node.js
         uses: actions/setup-node@v2
@@ -31,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup Geckodriver
-        uses: browser-actions/setup-geckodriver@v4.2.0
+        uses: browser-actions/setup-geckodriver@v1 
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Setup Node.js
