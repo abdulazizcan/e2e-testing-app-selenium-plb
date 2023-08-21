@@ -35,7 +35,7 @@ jobs:
       - name: Setup Geckodriver
         uses: browser-actions/setup-geckodriver@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Setup Node.js

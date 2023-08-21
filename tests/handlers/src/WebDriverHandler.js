@@ -29,7 +29,7 @@ class WebDriverHandler {
 
       await this.driver
         .findElement(By.id("Password"))
-        .sendKeys(process.env.PASSWORD, Key.RETURN);
+        .sendKeys("riaska", Key.RETURN);
 
       const enterPassword = await this.driver.findElement(
         By.className("btn btn--narrow")
