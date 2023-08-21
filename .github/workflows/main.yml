@@ -10,6 +10,8 @@ jobs:
   test-performance:
     runs-on: ubuntu-latest
     steps:
+      - name: Setup Geckodriver
+        uses: browser-actions/setup-geckodriver@v0.0.0-
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Setup Node.js
@@ -28,6 +30,9 @@ jobs:
   test-others:
     runs-on: ubuntu-latest
     steps:
+      - name: Setup Geckodriver
+        uses: browser-actions/setup-geckodriver@v0.0.0
+
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Setup Node.js
