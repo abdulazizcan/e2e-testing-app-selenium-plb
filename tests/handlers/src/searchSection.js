@@ -26,10 +26,11 @@ class SearchSection {
       );
 
       let productName = await productElement.getText();
-      console.log(productName);
 
       if (productName.includes(expectedProductName)) {
-        console.log("Product found successfully and name matches!");
+        console.log(
+          "Product found successfully and name matches! Product:" + productName
+        );
       } else {
         console.log("Product name does not match!");
       }
@@ -42,6 +43,6 @@ class SearchSection {
 module.exports = SearchSection;
 
 const SEARCH_ICON_SELECTOR = "a.hdicon.searchIco.hide-sm.hide-md";
-const SEARCH_BOX_SELECTOR = "input.search__input";
+const SEARCH_BOX_SELECTOR = "input.input-group__field.search__input";
 const SEARCH_BUTTON_SELECTOR = "button.search__submit";
 const EXPECTED_PRODUCT_SELECTOR = "p.mb5";

@@ -1,0 +1,44 @@
+name: Run Tests
+
+on:
+  schedule:
+    - cron: "0 8,20 * * *"
+  push:
+  pull_request:
+
+jobs:
+  test-performance:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+      - name: Install dependencies
+        run: npm install
+      - name: Run Performance Tests
+        run: npm run test-performance
+
+  test-others:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+      - name: Install Firefox
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y firefox
+      - name: Install dependencies
+        run: npm install
+      - name: Run Other Tests
+        run: npm run test-others

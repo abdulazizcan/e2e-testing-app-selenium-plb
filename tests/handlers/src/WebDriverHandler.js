@@ -4,7 +4,13 @@ require("dotenv").config();
 
 class WebDriverHandler {
   constructor() {
-    this.driver = new Builder().forBrowser("firefox").build();
+    const options = new firefox.Options();
+    options.headless(true);
+
+    this.driver = new Builder()
+      .forBrowser("firefox")
+      .setFirefoxOptions(options)
+      .build();
   }
 
   async startWebDriver() {
@@ -22,7 +28,7 @@ class WebDriverHandler {
       await enterPasswordElement.click();
 
       await this.driver
-        .findElement(By.name("password"))
+        .findElement(By.id("Password"))
         .sendKeys(process.env.PASSWORD, Key.RETURN);
 
       const enterPassword = await this.driver.findElement(

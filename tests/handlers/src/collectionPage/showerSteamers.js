@@ -1,4 +1,4 @@
-const { By } = require("selenium-webdriver");
+const { By, until } = require("selenium-webdriver");
 
 class ShowerSteamers {
   constructor(driver) {
@@ -35,13 +35,24 @@ class ShowerSteamers {
       By.css('a[data-link="#nvshower-steamers"]')
     );
     await showerSteamersLink.click();
-    await this.checkTheShowerSteamers();
+
+    await this.checkShowerSteamersCollection();
   }
 
-  async checkTheShowerSteamers() {
+  async checkShowerSteamersCollection() {
     await this.updateNames();
 
-    let next_page = await this.driver.findElement(By.css("ul > li.next"));
+    let next_page;
+    try {
+      next_page = await this.driver.findElement(By.css("ul > li.next"));
+      await this.driver.sleep(2000);
+    } catch (error) {
+      console.log("No next page button found.");
+      await this.driver.sleep(2000);
+      this.compareProducts();
+      return;
+    }
+
     while (next_page) {
       console.log("there is another page.");
       await next_page.click();
@@ -49,6 +60,7 @@ class ShowerSteamers {
 
       try {
         next_page = await this.driver.findElement(By.css("ul > li.next"));
+        console.log("there is another page");
       } catch (error) {
         console.log("No more next page button found.");
         break;
@@ -86,24 +98,22 @@ class ShowerSteamers {
       namesInProductsButNotInNames.length > 0 ||
       namesInNamesButNotInProducts.length > 0
     ) {
-      console.error(
-        "there is a problem with products on Shower Steamers collection"
-      );
+      console.error("there is a problem with products on bath bomb collection");
       if (namesInProductsButNotInNames.length > 0) {
         console.error(
-          "Missing in Product on the Shower Steamers Collection: ",
+          "Missing in Product on the Bath Bombs Collection: ",
           namesInProductsButNotInNames
         );
       }
       if (namesInNamesButNotInProducts.length > 0) {
         console.error(
-          "Extra in Product on the Shower Steamers Collection Page: ",
+          "Extra in Product on the Bath Bombs Collection Page: ",
           namesInNamesButNotInProducts
         );
       }
     } else {
       console.log(
-        "Shower Steamers Collection is checked, and everything looks good."
+        "Bath Bombs Collection is checked, and everything looks good."
       );
     }
   }

@@ -1,0 +1,378 @@
+16/8/2023 20:48 - Wednesday - Iteration 5
+16/8/2023 20:47 - Wednesday - Iteration 4
+16/8/2023 20:47 - Wednesday - Iteration 3
+16/8/2023 20:47 - Wednesday - Iteration 2
+16/8/2023 20:46 - Wednesday - Iteration 1
+Page Load Time for iteration 1: 527 ms | 0.53 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 263 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 211 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 182 ms | 0.18 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 246 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 453 ms | 0.45 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 197 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 213 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 179 ms | 0.18 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 214 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 268.5 ms | 0.27 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 211.70 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 21 ms | 0.02 s | Max: 7000 ms | 7.00 s
+Element Load Time: 18 ms | 0.02 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 510 ms | 0.51 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 228 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 212 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 206 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 207 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 216 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 208 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 189 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 191 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 201 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 236.8 ms | 0.24 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 170.00 ms | 0.17 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 12 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 7 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 884 ms | 0.88 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 464 ms | 0.46 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 193 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 192 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 185 ms | 0.18 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 210 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 200 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 248 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 198 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 183 ms | 0.18 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 295.7 ms | 0.30 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 1: 512 ms | 0.51 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 239 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 195 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 192 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 188 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 215 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 183 ms | 0.18 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 186 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 192 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 196 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 229.8 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 1: 509 ms | 0.51 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 195 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 191 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 196 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 207 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 251 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 211 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 199 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 192 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 201 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 235.2 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 1: 450 ms | 0.45 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 275 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 203 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 191 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 193 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 190 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 198 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 241 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 218 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 207 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 236.6 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 1: 451 ms | 0.45 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 220 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 198 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 194 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 177 ms | 0.18 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 196 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 215 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 201 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 181 ms | 0.18 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 188 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 222.1 ms | 0.22 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 174.90 ms | 0.17 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 8 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 14 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 547 ms | 0.55 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 194 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 202 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 190 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 189 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 271 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 198 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 244 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 191 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 208 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 243.4 ms | 0.24 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 174.00 ms | 0.17 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 13 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 8 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 498 ms | 0.50 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 196 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 212 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 194 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 192 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 215 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 209 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 196 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 202 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 216 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 233 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 1: 138 ms | 0.14 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 77 ms | 0.08 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 80 ms | 0.08 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 68 ms | 0.07 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 83 ms | 0.08 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 55 ms | 0.06 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 55 ms | 0.06 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 60 ms | 0.06 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 89 ms | 0.09 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 83 ms | 0.08 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 78.8 ms | 0.08 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 4 ms | 0.00 s | Max: 7000 ms | 7.00 s
+ERROR: NoSuchElementError: no such element: Unable to locate element: {"method":"css selector","selector":".input-group__btn"}
+  (Session info: chrome=115.0.5790.171)
+Page Load Time for iteration 1: 174 ms | 0.17 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 55 ms | 0.06 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 71 ms | 0.07 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 52 ms | 0.05 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 70 ms | 0.07 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 56 ms | 0.06 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 55 ms | 0.06 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 56 ms | 0.06 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 50 ms | 0.05 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 65 ms | 0.07 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 70.4 ms | 0.07 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 66.00 ms | 0.07 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 6 ms | 0.01 s | Max: 7000 ms | 7.00 s
+ERROR: NoSuchElementError: Unable to locate element: .input-group__btn
+Page Load Time for iteration 1: 1310 ms | 1.31 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 299 ms | 0.30 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 293 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 295 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 314 ms | 0.31 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 319 ms | 0.32 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 363 ms | 0.36 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 338 ms | 0.34 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 264 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 305 ms | 0.30 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 410 ms | 0.41 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 290.80 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 16 ms | 0.02 s | Max: 7000 ms | 7.00 s
+Element Load Time: 11 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 555 ms | 0.56 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 254 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 231 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 240 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 233 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 255 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 223 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 226 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 265 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 223 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 270.5 ms | 0.27 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 188.00 ms | 0.19 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 13 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 8 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 1222 ms | 1.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 257 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 295 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 268 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 382 ms | 0.38 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 269 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 295 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 241 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 263 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 329 ms | 0.33 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 382.1 ms | 0.38 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 319.30 ms | 0.32 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 16 ms | 0.02 s | Max: 7000 ms | 7.00 s
+Element Load Time: 21 ms | 0.02 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 536 ms | 0.54 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 258 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 286 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 263 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 247 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 245 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 332 ms | 0.33 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 243 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 229 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 217 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 285.6 ms | 0.29 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 210.00 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 13 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 7 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 1309 ms | 1.31 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 258 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 266 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 271 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 295 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 295 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 287 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 286 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 280 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 1: 1426 ms | 1.43 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 280 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 210 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 279 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 280 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 279 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 360 ms | 0.36 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 269 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 294 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 259 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 393.6 ms | 0.39 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 241.20 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 20 ms | 0.02 s | Max: 7000 ms | 7.00 s
+Element Load Time: 11 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 632 ms | 0.63 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 281 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 260 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 222 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 216 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 321 ms | 0.32 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 219 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 227 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 225 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 235 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 283.8 ms | 0.28 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 203.00 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 13 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 8 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 1353 ms | 1.35 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 259 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 265 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 379 ms | 0.38 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 255 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 305 ms | 0.30 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 306 ms | 0.31 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 298 ms | 0.30 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 307 ms | 0.31 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 260 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 398.7 ms | 0.40 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 243.00 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 20 ms | 0.02 s | Max: 7000 ms | 7.00 s
+Element Load Time: 14 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 603 ms | 0.60 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 259 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 250 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 251 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 267 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 281 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 313 ms | 0.31 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 251 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 242 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 250 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 296.7 ms | 0.30 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 209.00 ms | 0.21 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 18 ms | 0.02 s | Max: 7000 ms | 7.00 s
+Element Load Time: 8 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 10279 ms | 10.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 298 ms | 0.30 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 333 ms | 0.33 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 334 ms | 0.33 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 270 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 279 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 265 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 279 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 200 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 244 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 1278.1 ms | 1.28 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 238.10 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 13 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 11 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 566 ms | 0.57 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 221 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 250 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 257 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 241 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 268 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 220 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 237 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 263 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 248 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 277.1 ms | 0.28 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 234.00 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 12 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 7 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 11634 ms | 11.63 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 275 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 205 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 244 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 251 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 256 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 261 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 266 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 284 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 252 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 1392.8 ms | 1.39 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 246.10 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 13 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 11 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 664 ms | 0.66 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 246 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 237 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 246 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 245 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 288 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 236 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 257 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 237 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 233 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 288.9 ms | 0.29 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 197.00 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 13 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 7 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 561 ms | 0.56 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 273 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 287 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 292 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 287 ms | 0.29 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 264 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 269 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 274 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 196 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 323 ms | 0.32 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 302.6 ms | 0.30 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 308.50 ms | 0.31 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 15 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 13 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 571 ms | 0.57 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 263 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 236 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 223 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 218 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 263 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 339 ms | 0.34 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 280 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 329 ms | 0.33 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 255 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 297.7 ms | 0.30 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 251.00 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 12 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 7 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 681 ms | 0.68 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 251 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 277 ms | 0.28 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 267 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 319 ms | 0.32 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 377 ms | 0.38 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 355 ms | 0.35 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 272 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 321 ms | 0.32 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 267 ms | 0.27 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 338.7 ms | 0.34 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 261.40 ms | 0.26 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 15 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 11 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 615 ms | 0.61 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 231 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 230 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 233 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 234 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 251 ms | 0.25 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 232 ms | 0.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 217 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 245 ms | 0.24 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 221 ms | 0.22 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 270.9 ms | 0.27 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 198.00 ms | 0.20 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 15 ms | 0.01 s | Max: 7000 ms | 7.00 s
+Element Load Time: 7 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 675 ms | 0.68 s | Max: 3000 ms | 3.00 s
