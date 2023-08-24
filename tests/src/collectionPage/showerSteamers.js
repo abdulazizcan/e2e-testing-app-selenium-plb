@@ -1,30 +1,45 @@
-const { By } = require("selenium-webdriver");
+const { By, until } = require("selenium-webdriver");
 
-class BathBombs {
+class ShowerSteamers {
   constructor(driver) {
     this.driver = driver;
     this.names = [];
     this.products = [
-      "Luxury Bath Bomb Blue Skies",
-      "Luxury Bath Bomb Cotton Candy",
-      "Luxury Bath Bomb Galaxy",
-      "Luxury Bath Bomb Rose Bliss",
-      "Luxury Bath Bomb Satsuma",
-      "Luxury Bath Bomb Tropical Oasis",
-      "Luxury Bath Bomb Watermelon",
+      "Calm Me",
+      "Grapefruit Glory",
+      "Lemon Allure",
+      "Sleepy Time",
+      "Spa Day",
+      "Breathe",
+      "Breathe Sports Edition",
+      "Calm Me Sports Edition",
+      "Spa Day Sports Edition",
+      "Love For Her",
+      "Love For Him",
+      "Springtime Sakura",
+      "Calm Me",
+      "Grapefruit Glory",
+      "Lemon Allure",
+      "Cleopatra's Desire",
+      "Tropical Paradise",
+      "Champs de Lavande",
+      "Dream Destinations",
+      "Calm Me",
+      "Grapefruit Glory",
+      "Lemon Allure",
     ];
   }
 
-  async clickTheBathBombs() {
-    const bathBombsLink = await this.driver.findElement(
-      By.css('a[data-link="#nvbath-bombs"]')
+  async clickTheShowerSteamers() {
+    const showerSteamersLink = await this.driver.findElement(
+      By.css('a[href="/collections/all-shower-steamers"]')
     );
-    await bathBombsLink.click();
+    await showerSteamersLink.click();
 
-    await this.checkBathBombCollection();
+    await this.checkShowerSteamersCollection();
   }
 
-  async checkBathBombCollection() {
+  async checkShowerSteamersCollection() {
     await this.updateNames();
 
     let next_page;
@@ -83,25 +98,27 @@ class BathBombs {
       namesInProductsButNotInNames.length > 0 ||
       namesInNamesButNotInProducts.length > 0
     ) {
-      console.error("there is a problem with products on bath bomb collection");
+      console.error(
+        "there is a problem with products on shower steamers collection"
+      );
       if (namesInProductsButNotInNames.length > 0) {
         console.error(
-          "Missing in Product on the Bath Bombs Collection: ",
+          "Missing in Product on the Shower Steamers Collection: ",
           namesInProductsButNotInNames
         );
       }
       if (namesInNamesButNotInProducts.length > 0) {
         console.error(
-          "Extra in Product on the Bath Bombs Collection Page: ",
+          "Extra in Product on the Shower Steamers Collection Page: ",
           namesInNamesButNotInProducts
         );
       }
     } else {
       console.log(
-        "Bath Bombs Collection is checked, and everything looks good."
+        "Shower Steamers Collection is checked, and everything looks good."
       );
     }
   }
 }
 
-module.exports = BathBombs;
+module.exports = ShowerSteamers;

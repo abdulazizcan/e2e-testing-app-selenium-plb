@@ -1,32 +1,26 @@
 const { By, until } = require("selenium-webdriver");
 const { scrollToAndClick } = require("./utils/utils");
 
-class ContactUs {
+class AboutUs {
   constructor(driver) {
     this.driver = driver;
   }
 
-  async ContactUsClick() {
+  async aboutUsClick() {
     try {
-      await this.driver.wait(
-        until.elementLocated(By.css('a[href="/pages/contact-us"]')),
-        10000
+      const aboutUsLink = await this.driver.findElement(
+        By.css('a[href="/pages/about-us"]')
       );
-
-      const contactUsLink = await this.driver.findElement(
-        By.css('a[href="/pages/contact-us"]')
-      );
-      await scrollToAndClick(this.driver, contactUsLink);
-      if (contactUsLink) {
+      await scrollToAndClick(this.driver, aboutUsLink);
+      if (aboutUsLink) {
       }
-
-      await this.checkTheShowerSteamers();
+      await this.checkAboutUsPage();
     } catch (error) {
       console.log(error);
     }
   }
 
-  async checkTheShowerSteamers() {
+  async checkAboutUsPage() {
     try {
       let title = await this.driver.wait(
         until.elementLocated(By.css("span.fw-700")),
@@ -34,7 +28,7 @@ class ContactUs {
       );
       title = await this.driver.findElement(By.css("span.fw-700"));
       title = await title.getText();
-      if (title == "Contact Us") {
+      if (title == "About Us") {
         console.log(`The name of the entered web page is correct. ${title}`);
       }
     } catch (error) {
@@ -43,4 +37,4 @@ class ContactUs {
   }
 }
 
-module.exports = ContactUs;
+module.exports = AboutUs;

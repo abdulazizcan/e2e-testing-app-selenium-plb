@@ -1,45 +1,30 @@
-const { By, until } = require("selenium-webdriver");
+const { By } = require("selenium-webdriver");
 
-class ShowerSteamers {
+class BathBombs {
   constructor(driver) {
     this.driver = driver;
     this.names = [];
     this.products = [
-      "Calm Me",
-      "Grapefruit Glory",
-      "Lemon Allure",
-      "Sleepy Time",
-      "Spa Day",
-      "Breathe",
-      "Breathe Sports Edition",
-      "Calm Me Sports Edition",
-      "Spa Day Sports Edition",
-      "Love For Her",
-      "Love For Him",
-      "Springtime Sakura",
-      "Calm Me",
-      "Grapefruit Glory",
-      "Lemon Allure",
-      "Cleopatra's Desire",
-      "Tropical Paradise",
-      "Champs de Lavande",
-      "Dream Destinations",
-      "Calm Me",
-      "Grapefruit Glory",
-      "Lemon Allure",
+      "Luxury Bath Bomb Blue Skies",
+      "Luxury Bath Bomb Cotton Candy",
+      "Luxury Bath Bomb Galaxy",
+      "Luxury Bath Bomb Rose Bliss",
+      "Luxury Bath Bomb Satsuma",
+      "Luxury Bath Bomb Tropical Oasis",
+      "Luxury Bath Bomb Watermelon",
     ];
   }
 
-  async clickTheShowerSteamers() {
-    const showerSteamersLink = await this.driver.findElement(
-      By.css('a[data-link="#nvshower-steamers"]')
+  async clickTheBathBombs() {
+    const bathBombsLink = await this.driver.findElement(
+      By.css('a[href="https://plbbeta.myshopify.com/collections/all-products/artisan-bath-bombs?"]')
     );
-    await showerSteamersLink.click();
+    await bathBombsLink.click();
 
-    await this.checkShowerSteamersCollection();
+    await this.checkBathBombCollection();
   }
 
-  async checkShowerSteamersCollection() {
+  async checkBathBombCollection() {
     await this.updateNames();
 
     let next_page;
@@ -119,4 +104,4 @@ class ShowerSteamers {
   }
 }
 
-module.exports = ShowerSteamers;
+module.exports = BathBombs;

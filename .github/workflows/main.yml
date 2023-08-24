@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Setup Geckodriver
         uses: browser-actions/setup-geckodriver@latest
-
+        run: geckodriver --version
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Setup Node.js
