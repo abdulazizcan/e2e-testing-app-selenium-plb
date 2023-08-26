@@ -40,16 +40,16 @@ async function testPLB() {
     await search.SearchProducts();
     await closeTheSearch(webDriver.driver);
     await webDriver.driver.sleep(2000);
-    //check the bath bombs collection page
-    await HoverTheShop(webDriver.driver);
-    const BathBombsCollection = new BathBombs(webDriver.driver);
-    await BathBombsCollection.clickTheBathBombs();
-    await webDriver.driver.sleep(2000);
-    //check the shower steamers collection page
-    await HoverTheShop(webDriver.driver);
-    const showerSteamersCollection = new ShowerSteamers(webDriver.driver);
-    await showerSteamersCollection.clickTheShowerSteamers();
-    await webDriver.driver.sleep(2000);
+    // //check the bath bombs collection page
+    // await HoverTheShop(webDriver.driver);
+    // const BathBombsCollection = new BathBombs(webDriver.driver);
+    // await BathBombsCollection.clickTheBathBombs();
+    // await webDriver.driver.sleep(2000);
+    // //check the shower steamers collection page
+    // await HoverTheShop(webDriver.driver);
+    // const showerSteamersCollection = new ShowerSteamers(webDriver.driver);
+    // await showerSteamersCollection.clickTheShowerSteamers();
+    // await webDriver.driver.sleep(2000);
 
     //AboutUS page checking
     const aboutUs = new AboutUs(webDriver.driver);

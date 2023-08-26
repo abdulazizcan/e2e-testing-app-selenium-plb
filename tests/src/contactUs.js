@@ -20,13 +20,13 @@ class ContactUs {
       if (contactUsLink) {
       }
 
-      await this.checkContactUsPage();
+      await this.checkTheShowerSteamers();
     } catch (error) {
       console.log(error);
     }
   }
 
-  async checkContactUsPage() {
+  async checkTheShowerSteamers() {
     try {
       let title = await this.driver.wait(
         until.elementLocated(By.css("span.fw-700")),

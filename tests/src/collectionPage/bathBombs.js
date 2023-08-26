@@ -17,7 +17,7 @@ class BathBombs {
 
   async clickTheBathBombs() {
     const bathBombsLink = await this.driver.findElement(
-      By.css('a[href="https://plbbeta.myshopify.com/collections/all-products/artisan-bath-bombs?"]')
+      By.css('a[data-link="#nvbath-bombs"]')
     );
     await bathBombsLink.click();
 

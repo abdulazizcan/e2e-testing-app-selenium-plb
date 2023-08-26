@@ -5,7 +5,7 @@ require("dotenv").config();
 class WebDriverHandler {
   constructor() {
     const options = new firefox.Options();
-    // options.headless(true);
+    options.headless(true);
 
     this.driver = new Builder()
       .forBrowser("firefox")

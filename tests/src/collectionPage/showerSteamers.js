@@ -32,7 +32,7 @@ class ShowerSteamers {
 
   async clickTheShowerSteamers() {
     const showerSteamersLink = await this.driver.findElement(
-      By.css('a[href="/collections/all-shower-steamers"]')
+      By.css('a[data-link="#nvshower-steamers"]')
     );
     await showerSteamersLink.click();
 
@@ -98,24 +98,22 @@ class ShowerSteamers {
       namesInProductsButNotInNames.length > 0 ||
       namesInNamesButNotInProducts.length > 0
     ) {
-      console.error(
-        "there is a problem with products on shower steamers collection"
-      );
+      console.error("there is a problem with products on bath bomb collection");
       if (namesInProductsButNotInNames.length > 0) {
         console.error(
-          "Missing in Product on the Shower Steamers Collection: ",
+          "Missing in Product on the Bath Bombs Collection: ",
           namesInProductsButNotInNames
         );
       }
       if (namesInNamesButNotInProducts.length > 0) {
         console.error(
-          "Extra in Product on the Shower Steamers Collection Page: ",
+          "Extra in Product on the Bath Bombs Collection Page: ",
           namesInNamesButNotInProducts
         );
       }
     } else {
       console.log(
-        "Shower Steamers Collection is checked, and everything looks good."
+        "Bath Bombs Collection is checked, and everything looks good."
       );
     }
   }

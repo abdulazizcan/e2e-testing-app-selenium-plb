@@ -14,13 +14,13 @@ class AboutUs {
       await scrollToAndClick(this.driver, aboutUsLink);
       if (aboutUsLink) {
       }
-      await this.checkAboutUsPage();
+      await this.checkTheShowerSteamers();
     } catch (error) {
       console.log(error);
     }
   }
 
-  async checkAboutUsPage() {
+  async checkTheShowerSteamers() {
     try {
       let title = await this.driver.wait(
         until.elementLocated(By.css("span.fw-700")),
