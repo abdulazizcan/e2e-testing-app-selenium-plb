@@ -1,6 +1,5 @@
 const { Builder, By, Key, until } = require("selenium-webdriver");
 const firefox = require("selenium-webdriver/firefox");
-require("dotenv").config();
 
 class WebDriverHandler {
   constructor() {
