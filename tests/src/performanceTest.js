@@ -11,6 +11,7 @@ class PerformanceTest {
     if (this.browser === "chrome") {
       const chrome = require("selenium-webdriver/chrome");
       let chromeOptions = new chrome.Options();
+
       chromeOptions.addArguments("--headless");
       chromeOptions.addArguments(
         "--disable-gpu",
@@ -25,6 +26,8 @@ class PerformanceTest {
     } else if (this.browser === "firefox") {
       const firefox = require("selenium-webdriver/firefox");
       let firefoxOptions = new firefox.Options();
+      firefoxOptions.setBinary('/usr/bin/firefox'); 
+
       firefoxOptions.addArguments("-headless");
       this.driver = new Builder()
         .forBrowser(this.browser)

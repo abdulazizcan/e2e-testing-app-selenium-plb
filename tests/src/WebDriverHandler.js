@@ -4,6 +4,7 @@ const firefox = require("selenium-webdriver/firefox");
 class WebDriverHandler {
   constructor() {
     const options = new firefox.Options();
+    options.setBinary('/usr/bin/firefox'); 
     options.headless(true);
 
     this.driver = new Builder()

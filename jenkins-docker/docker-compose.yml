@@ -4,6 +4,7 @@ services:
   s_jenkins:
     container_name: c_jenkins
     image: jenkins/jenkins
+    user: root
     ports:
       - 8080:8080
       - 50000:50000
