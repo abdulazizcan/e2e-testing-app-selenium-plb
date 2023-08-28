@@ -26,7 +26,7 @@ class PerformanceTest {
     } else if (this.browser === "firefox") {
       const firefox = require("selenium-webdriver/firefox");
       let firefoxOptions = new firefox.Options();
-      firefoxOptions.setBinary('/usr/bin/firefox'); 
+      // firefoxOptions.setBinary('/usr/bin/firefox'); 
 
       firefoxOptions.addArguments("-headless");
       this.driver = new Builder()

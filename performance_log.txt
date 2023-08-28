@@ -26,3 +26,31 @@ Average Page Load Time: 473.4 ms | 0.47 s | Max: 3000 ms | 3.00 s
 First Contentful Paint: 197.00 ms | 0.20 s | Max: 3000 ms | 3.00 s
 Time to Interactive: 16 ms | 0.02 s | Max: 7000 ms | 7.00 s
 Element Load Time: 12 ms | 0.01 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 2965 ms | 2.96 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 1679 ms | 1.68 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 1194 ms | 1.19 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 765 ms | 0.77 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 1225 ms | 1.23 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 1143 ms | 1.14 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 1492 ms | 1.49 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 760 ms | 0.76 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 524 ms | 0.52 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 466 ms | 0.47 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 1221.3 ms | 1.22 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 426.40 ms | 0.43 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 86 ms | 0.09 s | Max: 7000 ms | 7.00 s
+Element Load Time: 76 ms | 0.08 s | Max: 2000 ms | 2.00 s
+Page Load Time for iteration 1: 3675 ms | 3.67 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 2: 2858 ms | 2.86 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 3: 940 ms | 0.94 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 4: 2219 ms | 2.22 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 5: 2263 ms | 2.26 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 6: 768 ms | 0.77 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 7: 665 ms | 0.67 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 8: 580 ms | 0.58 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 9: 784 ms | 0.78 s | Max: 3000 ms | 3.00 s
+Page Load Time for iteration 10: 652 ms | 0.65 s | Max: 3000 ms | 3.00 s
+Average Page Load Time: 1540.4 ms | 1.54 s | Max: 3000 ms | 3.00 s
+First Contentful Paint: 522.00 ms | 0.52 s | Max: 3000 ms | 3.00 s
+Time to Interactive: 93 ms | 0.09 s | Max: 7000 ms | 7.00 s
+Element Load Time: 29 ms | 0.03 s | Max: 2000 ms | 2.00 s
