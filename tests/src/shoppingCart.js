@@ -16,7 +16,7 @@ class ShoppingCart {
 
       const addButton = await this.driver.wait(
         until.elementLocated(
-          By.id("AddToCartText-template--19411590414669__product")
+          By.id("AddToCartText-template--19537473634637__product")
         ),
         2000
       );

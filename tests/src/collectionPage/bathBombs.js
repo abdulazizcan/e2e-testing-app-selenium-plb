@@ -17,7 +17,7 @@ class BathBombs {
 
   async clickTheBathBombs() {
     const bathBombsLink = await this.driver.findElement(
-      By.css('a[data-link="#nvbath-bombs"]')
+      By.css('a[href="/collections/bath-bombs"]')
     );
     await bathBombsLink.click();
 
