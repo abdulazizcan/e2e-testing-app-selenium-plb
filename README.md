@@ -1,35 +1,62 @@
-# Testing Project (End-to-End Testing)
+# Web Testing Project (End-to-End Testing)
 
-This repository contains the code for end-to-end (e2e) testing, focusing on testing various functionalities of a web application.
+## Overview
 
-## Structure
+This project aims to perform a series of automated tests on a web application to ensure its functionality, performance, and compatibility. It utilizes Selenium WebDriver for interacting with web browsers and running test scenarios related to different components and features of the web application.
 
-### Main Classes
+## Table of Contents
 
-- `WebDriverHandler.js`: Handles WebDriver initialization and site login.
-- `shoppingCart.js`: Contains testing functionality for the shopping cart.
-- `searchSection.js`: Contains testing functionality for the product search section.
+- [Setup and Installation](#setup-and-installation)
+- [Usage Instructions](#usage-instructions)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
 
-### Utilities
+## Setup and Installation
 
-- `src/utils`: Contains utility functions to assist with testing.
+### Prerequisites
 
-## Running Tests
+- Node.js installed on your local machine.
+- Docker installed if you plan to containerize the application.
 
-- RUN `node ./tests/handlers/main.js`
+### Steps
 
-## Dependencies
+1. Clone the repository to your local machine.
+   ```sh
+   git clone https://github.com/abdulazizcan/e2e-testing-app-selenium-plb
+   ```
+2. Navigate to the project directory.
+   ```sh
+   cd Testing
+   ```
+3. Install the project dependencies.
+   ```sh
+   npm install
+   ```
 
-The project depends on several packages, including `selenium-webdriver`, `chromedriver`, `geckodriver`, etc.
+## Usage Instructions
 
-## Future Updates
+To run the project locally, execute the following command in the project directory:
 
-New tests and enhancements will be added in the future. Stay tuned for updates!
+```sh
+node ./tests/main.js
+```
 
 ## Contributing
 
-Feel free to contribute to the testing code, and make sure to follow the coding standards of the project.
+I welcome contributions from the community. If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request with a detailed description of your changes.
+
+I will review your contribution and, if it aligns with our project goals, merge it into the main branch.
+
+## Support
+
+If you encounter any issues or have questions about the project, please open an issue on GitHub or contact the project maintainers at [abdulazizcaan@gmail.com](mailto:abdulazizcaan@gmail.com).
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md). Please see the [LICENSE](https://www.mit.edu/~amini/LICENSE.md) file for more details.
