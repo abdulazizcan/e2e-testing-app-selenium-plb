@@ -3,9 +3,15 @@ const firefox = require("selenium-webdriver/firefox");
 class WebDriverHandler {
   constructor(headless = null) {
     const options = new firefox.Options();
+<<<<<<< HEAD
     if (headless === "headless") {
       options.headless(true);
     }
+=======
+    // options.setBinary('/usr/bin/firefox'); 
+    options.headless(true);
+
+>>>>>>> d2de5427de604a78b02f6d099382c7a481955cf7
     this.driver = new Builder()
       .forBrowser("firefox")
       .setFirefoxOptions(options)

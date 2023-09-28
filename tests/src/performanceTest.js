@@ -39,7 +39,12 @@ class PerformanceTest {
     if (this.browser === "chrome") {
       const chrome = require("selenium-webdriver/chrome");
       let chromeOptions = new chrome.Options();
+<<<<<<< HEAD
       // chromeOptions.addArguments("--headless");
+=======
+
+      chromeOptions.addArguments("--headless");
+>>>>>>> d2de5427de604a78b02f6d099382c7a481955cf7
       chromeOptions.addArguments(
         "--disable-gpu",
         "--disable-software-rasterizer",
@@ -53,7 +58,13 @@ class PerformanceTest {
     } else if (this.browser === "firefox") {
       const firefox = require("selenium-webdriver/firefox");
       let firefoxOptions = new firefox.Options();
+<<<<<<< HEAD
       // firefoxOptions.addArguments("-headless");
+=======
+      // firefoxOptions.setBinary('/usr/bin/firefox'); 
+
+      firefoxOptions.addArguments("-headless");
+>>>>>>> d2de5427de604a78b02f6d099382c7a481955cf7
       this.driver = new Builder()
         .forBrowser(this.browser)
         .setFirefoxOptions(firefoxOptions)
