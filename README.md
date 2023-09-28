@@ -1,4 +1,3 @@
-
 # Testing Project (End-to-End Testing)
 
 This repository contains the code for end-to-end (e2e) testing, focusing on testing various functionalities of a web application.
